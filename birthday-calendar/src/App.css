@@ -1,0 +1,21 @@
+.m-b {
+  margin-bottom: 10px;
+}
+
+.m-t {
+  margin-top: 20px;
+}
+
+.m-l {
+  margin-left: 20px;
+}
+
+.app {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon {
+  vertical-align: middle;
+  cursor: pointer;
+}
